@@ -13,10 +13,12 @@ const footerLinks = {
     { name: 'Contact', href: '#contact' },
   ],
   services: [
-    { name: 'Software Development', href: '#services' },
-    { name: 'IT Consulting', href: '#services' },
-    { name: 'Website Services', href: '#services' },
-    { name: 'Cloud Solutions', href: '#services' },
+    { name: 'Website Development', href: '#services' },
+    { name: 'E-Commerce Solutions', href: '#services' },
+    { name: 'UI/UX Design', href: '#services' },
+    { name: 'Web Systems & Dashboards', href: '#services' },
+    { name: 'Hosting & Maintenance', href: '#services' },
+    { name: 'Bot Development', href: '#services' },
   ],
 };
 
@@ -119,7 +121,7 @@ export default function Footer() {
                 </li>
                 <li className="flex items-start gap-3">
                   <Phone className="w-4 h-4 text-primary mt-0.5" />
-                  <span className="text-muted-foreground text-sm">+639123456789</span>
+                  <span className="text-muted-foreground text-sm">+639616480020</span>
                 </li>
                 <li className="flex items-start gap-3">
                   <MapPin className="w-4 h-4 text-primary mt-0.5" />

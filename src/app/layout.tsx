@@ -1,9 +1,9 @@
-
 import type { Metadata } from "next";
 import { Poppins } from "next/font/google";
 import { ThemeProvider } from "@/components/ThemeProvider";
 import { Toaster } from "@/components/ui/toaster";
 import GlobalClientEffects from "@/components/GlobalClientEffects";
+import TawkToWidget from "@/components/chatbot/tawkto";
 
 import "./global.css";
 
@@ -20,9 +20,9 @@ export const metadata: Metadata = {
 
 export default function RootLayout({
   children,
-}: Readonly<{
+}: {
   children: React.ReactNode;
-}>) {
+}) {
   const content = (
     <>
       {children}
@@ -44,6 +44,10 @@ export default function RootLayout({
         >
           {content}
         </ThemeProvider>
+        <TawkToWidget 
+          propertyId="69301f17061e93197e68ead3" 
+          widgetId="1jbhvitpp" 
+        />
       </body>
     </html>
   );

@@ -47,7 +47,7 @@ export default function AboutSection() {
               About AxionByte
             </h2>
             <p className="text-muted-foreground text-base sm:text-lg max-w-3xl mx-auto leading-relaxed">
-              We are a technology company dedicated to helping businesses transform and thrive in the digital age. 
+              We are a technology agency based in the Philippines dedicated to helping businesses transform and thrive in the digital age. 
               Our comprehensive solutions are designed to meet your unique challenges and goals.
             </p>
           </motion.div>

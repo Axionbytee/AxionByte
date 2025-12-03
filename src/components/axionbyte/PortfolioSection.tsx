@@ -23,13 +23,6 @@ const developers = [
     github: 'https://github.com/alekzzz01',
   },
   {
-    name: 'Ronjay Sarmiento',
-    role: 'Backend Developer',
-    description: 'DEVELOPER OF AXIONBYTE',
-    image: 'https://media.discordapp.net/attachments/1415281187420770405/1417412186296287322/Axionbyte.png?ex=692d43f7&is=692bf277&hm=4dbe66b39565e0447efcf2881e77b01bdad8d900844d457d3d2695c9a17f3402&=&format=webp&quality=lossless&width=625&height=625',
-    github: 'https://github.com/zjay-98',
-  },
-  {
     name: 'Vincent Bernabe Romeo',
     role: 'Backend Developer',
     description: 'DEVELOPER OF AXIONBYTE',

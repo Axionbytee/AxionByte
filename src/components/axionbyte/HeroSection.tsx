@@ -38,9 +38,8 @@ export default function HeroSection() {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-muted-foreground text-sm sm:text-base max-w-2xl mx-auto mb-10 leading-relaxed"
           >
-            At AxionByte, we provide cutting-edge technology solutions to help your business thrive. 
-            From software development to IT consulting, our expert team is dedicated to delivering 
-            innovative and reliable services tailored to your needs.
+            To empower brands through modern web solutions. What began
+            as a small project among passionate developers has evolved into a growing digital studio focused on quality, innovation, and trust.
           </motion.p>
           
           <motion.div

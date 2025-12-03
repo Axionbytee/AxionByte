@@ -9,33 +9,33 @@ import { Code, Monitor, Globe, Database, Shield, Smartphone } from 'lucide-react
 const services = [
   {
     icon: Code,
-    title: 'Software Development',
-    description: 'Custom software solutions tailored to your business needs, from web applications to enterprise systems.',
+    title: 'Website Development',
+    description: 'Crafting fast, secure, and responsive websites tailored to your brand and business goals.',
   },
   {
     icon: Monitor,
-    title: 'IT Consulting',
-    description: 'Strategic technology guidance to optimize your IT infrastructure and drive digital transformation.',
+    title: 'E-Commerce Solutions',
+    description: 'Fully functional online stores built to convert visitors into loyal customers.',
   },
   {
     icon: Globe,
-    title: 'Website Services',
-    description: 'Professional website design and development that creates stunning digital experiences.',
+    title: 'UI/UX Design',
+    description: 'Beautiful, Intuitive, and user-centered designs that bring your digital products and ideas to life.',
   },
   {
     icon: Database,
-    title: 'Cloud Solutions',
-    description: 'Scalable cloud infrastructure and migration services to modernize your business operations.',
+    title: 'Web Systems & Dashboards',
+    description: 'Custom systems designed to streamline your operations and eliminate manual processes.',
   },
   {
     icon: Shield,
-    title: 'Cybersecurity',
-    description: 'Comprehensive security solutions to protect your data and digital assets from threats.',
+    title: 'Hosting & Maintenance',
+    description: 'Reliable hosting and ongoing maintenance to ensure your website runs smoothly and securely.',
   },
   {
     icon: Smartphone,
-    title: 'Mobile Development',
-    description: 'Native and cross-platform mobile applications that engage users on any device.',
+    title: 'Bot Development',
+    description: 'Automate tasks, boost engagement, and enhance user experiences with intelligent bots.',
   },
 ];
 
