@@ -29,7 +29,7 @@ export default function Footer() {
                 <div style={{ width: '2rem', height: '2rem', borderRadius: '0.5rem', background: 'var(--primary)', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
                   <span style={{ color: 'var(--primary-foreground)', fontWeight: 700, fontSize: '1.125rem' }}>A</span>
                 </div>
-                <span style={{ fontWeight: 600, fontSize: '1.125rem' }}>axionbyte</span>
+                <span style={{ fontWeight: 600, fontSize: '1.125rem' }}>Axionbyte</span>
               </a>
               <p className="text-muted-foreground" style={{ fontSize: '0.875rem', lineHeight: 1.7, marginBottom: '1rem' }}>
                 Your gateway to innovative technology solutions. We help businesses thrive in the digital age.

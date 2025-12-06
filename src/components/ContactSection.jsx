@@ -5,7 +5,7 @@ import { Phone, MessageCircle, Mail } from 'lucide-react';
 const contactCards = [
   { icon: Phone, title: 'Call us!', subtitle: 'We are available 24/7 to assist you', action: '+639123456789', isButton: false },
   { icon: MessageCircle, title: 'Chat with us!', subtitle: 'Get instant support from our team', action: 'Chat Now', isButton: true },
-  { icon: Mail, title: 'Inquire us!', subtitle: 'Send us your questions anytime', action: 'Get Started', isButton: true },
+  { icon: Mail, title: 'Inquire us!', subtitle: 'Send us your inquiries/offers anytime', action: 'Get Started', isButton: true },
 ];
 
 const logoUrl = 'https://media.discordapp.net/attachments/1415281187420770405/1417412186296287322/Axionbyte.png?ex=692bf277&is=692aa0f7&hm=b67df0516874bebf24817ce4dbae7f93111e78e41d6be704ef26415ca4106af8&=&format=webp&quality=lossless&width=625&height=625';

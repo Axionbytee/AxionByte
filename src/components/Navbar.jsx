@@ -47,7 +47,7 @@ export default function Navbar() {
           <div style={{ width: '2rem', height: '2rem', borderRadius: '0.5rem', background: 'var(--primary)', display: 'flex', alignItems: 'center', justifyContent: 'center', overflow: 'hidden' }}>
             <img src="https://media.discordapp.net/attachments/1415281187420770405/1417412186296287322/Axionbyte.png?ex=692c9b37&is=692b49b7&hm=cbae0240c37cf35720410c2985674af4c683db2d1b70849aa7266b57a1fd038a&=&format=webp&quality=lossless&width=625&height=625" alt="Logo" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
           </div>
-          <span style={{ fontWeight: 600, fontSize: '1.125rem' }}>axionbyte</span>
+          <span style={{ fontWeight: 600, fontSize: '1.125rem' }}>Axionbyte</span>
         </a>
 
         <div style={{ display: 'none', alignItems: 'center', gap: '2rem' }} className="nav-links-desktop">
